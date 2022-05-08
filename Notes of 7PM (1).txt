@@ -1,0 +1,28 @@
+pip ---> Python installation Package
+
+what is pip?
+pip is the package manager for python
+with the help of pip we can install and even uninstall packages.
+
+
+what is pep8?
+pep --> Python Enhanced Proposal
+pep8 is the coding style convention.
+
+
+How can we know / get some info about packages?
+
+There is a website called pypi.org
+
+pypi--> python package index
+
+
+
+
+
+
+
+
+
+
+
